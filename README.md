@@ -57,8 +57,16 @@ Tell me your tech skills and I will generate perfect updated icons.
 
 ## 📊 GitHub Analytics
 
-![Ambrut Graph](https://github-readme-activity-graph.vercel.app/graph?&theme=react-dark&hide_border=true)
+![Ambrut Graph](https://github-readme-activity-graph.vercel.app/graph?username=ambrutvarshni&theme=react-dark&hide_border=true)
 
+### 🔥 Contribution Streak  
+![GitHub Streak](https://streak-stats.demolab.com?user=ambrutvarshni&theme=react&hide_border=true)
+
+### 🧩 Profile Summary  
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambrutvarshni&theme=react)
+
+### 🎨 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ambrutvarshni&layout=compact&theme=react&hide_border=true)
 ---
 <p align="center">
   🚀 If you find my work interesting, consider starring a repo!
