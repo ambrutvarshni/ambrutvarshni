@@ -58,8 +58,8 @@ Tell me your tech skills and I will generate perfect updated icons.
 ## 📊 GitHub Analytics
 
 ### 📊 GitHub Profile Summary
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambrutvarshni&theme=react)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+###[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambrutvarshni&theme=react)](https://github.com/vn7n24fzkq/github-profile-summary-### cards)
+![Ambrut Graph](https://github-readme-activity-graph.vercel.app/graph?username=ambrutvarshni&theme=react-dark&hide_border=true)
 
 ---
 <p align="center">
