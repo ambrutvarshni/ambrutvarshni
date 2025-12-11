@@ -56,7 +56,7 @@ Tell me your tech skills and I will generate perfect updated icons.
 ---
 
 ## 📊 GitHub Analytics
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ambrutvarshni&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ambrutvarshni&theme=react-dark&hide_border=true&title_color=00000000)
 
 <p align="center">
   🚀 If you find my work interesting, consider starring a repo!
