@@ -69,5 +69,5 @@ Tell me your tech skills and I will generate perfect updated icons.
 
 ---
 <p align="center">
-  🚀 *If my work sparks your interest, feel free to connect — I love building, learning, and collaborating with great people.*
+  🚀 If you find my work interesting, consider starring a repo!
 </p>
