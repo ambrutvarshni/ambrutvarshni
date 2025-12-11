@@ -55,19 +55,19 @@ Tell me your tech skills and I will generate perfect updated icons.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambrutvarshni&show_icons=true&theme=react&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ambrutvarshni&theme=react&hide_border=true" width="48%"/>
-</p>
+### 🔥 GitHub Stats  
+![Ambrut GitHub Stats](https://github-readme-stats.vercel.app/api?username=ambrutvarshni&show_icons=true&theme=react&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambrutvarshni&layout=compact&theme=react&hide_border=true" width="40%"/>
-</p>
+### 🔥 GitHub Streak  
+![GitHub Streak](https://streak-stats.demolab.com?user=ambrutvarshni&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+### 🎨 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ambrutvarshni&layout=compact&theme=react&hide_border=true&langs_count=8&card_width=380)
+
 
 ---
-
 <p align="center">
   🚀 *If my work sparks your interest, feel free to connect — I love building, learning, and collaborating with great people.*
 </p>
