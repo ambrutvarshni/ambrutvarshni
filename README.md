@@ -57,14 +57,8 @@ Tell me your tech skills and I will generate perfect updated icons.
 
 ## 📊 GitHub Analytics
 
-### 🔥 GitHub Stats  
-![Ambrut GitHub Stats](https://github-readme-stats.vercel.app/api?username=ambrutvarshni&show_icons=true&theme=react&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true)
-
-### 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=ambrutvarshni&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-### 🎨 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ambrutvarshni&layout=compact&theme=react&hide_border=true&langs_count=8&card_width=380)
+### 📊 GitHub Profile Summary
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambrutvarshni&theme=react)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 ---
