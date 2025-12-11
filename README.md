@@ -56,8 +56,7 @@ Tell me your tech skills and I will generate perfect updated icons.
 ---
 
 ## 📊 GitHub Analytics
-
-![Ambrut Graph](https://github-readme-activity-graph.vercel.app/graph?username=ambrutvarshni&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ambrutvarshni&theme=react-dark&hide_border=true&area=true)
 
 <p align="center">
   🚀 If you find my work interesting, consider starring a repo!
