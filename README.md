@@ -25,14 +25,18 @@
 
 ## 🧰 Tech Stack
 
-<!--  
-Replace the icons below with your actual skills.  
-Tell me your tech skills and I will generate perfect updated icons.  
--->
+## 🧰 Tech Stack  
 
+### **Languages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,go,js,ts,react,angular,nodejs,spring,docker,azure,postgres,mysql,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=java,python,go,js,ts,html,css,react,angular,nodejs,spring,express" />
 </p>
+
+### **Databases & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,azure,git,github,postman" />
+</p>
+
 
 ---
 
